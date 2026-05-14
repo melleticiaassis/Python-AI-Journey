@@ -1,4 +1,4 @@
-# 🚀 AI Learning Projects
+# 🚀 Python AI Journey
 
 Repositório criado para documentar minha evolução em Python, Automação, Dados, Inteligência Artificial e Desenvolvimento.
 
